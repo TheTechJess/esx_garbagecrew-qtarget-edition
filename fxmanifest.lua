@@ -2,6 +2,8 @@ fx_version 'adamant'
 
 game 'gta5'
 
+desctiption 'Qtarget version by TechJess'
+
 server_scripts {
 	'@es_extended/locale.lua',
 	'locales/cs.lua',
