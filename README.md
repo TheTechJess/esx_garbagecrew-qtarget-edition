@@ -5,10 +5,9 @@ all coding credit goes to SpikE-Odets - I just made edits to make it work with q
 
 
 – Requires–
-
-ESX_Jobs
-
+es_extended
 qtarget
+mythic_notify
 
 – Install –
 
